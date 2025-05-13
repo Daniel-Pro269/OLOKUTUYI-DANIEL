@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olokutuyi Daniel</h1>
-<h3 align="center">I'm passionate about using digital tools, creative strategy, and data-driven insights to solve real-world problems, support small business growth, and drive social impact through content, design, and innovation.tend developer from India</h3>
+<h3 align="center">I'm passionate about using digital tools, creative strategy, and data-driven insights to solve real-world problems, support small business growth, and drive social impact through content, design, and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-pro269&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-pro269" /> </p>
 
