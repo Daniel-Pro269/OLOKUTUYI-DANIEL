@@ -35,7 +35,7 @@
 
 -  Email: olokutuyidaniel@gmail.com  
 -  [LinkedIn](https://www.linkedin.com/in/daniel-olokutuyi-337073365)  
--  Twitter: [@olokutuyidaniel](https://twitter.com/olokutuyidaniel) *(if applicable)*
+-  Twitter: [@Dutch_man_01](https://twitter.com/dutch_man_01) *(if applicable)*
 
 ---
 
