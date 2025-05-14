@@ -1,16 +1,22 @@
 <!-- GitHub Profile README for daniel-pro269 -->
 
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://github.com/Daniel-Pro269.png" width="120" style="border-radius: 10px;" alt="Profile Picture" />
+    </td>
+    <td>
 <h1 align="center">Hi, I'm Olokutuyi Daniel</h1>
-<h3 align="center">Digital Analyst | Content Strategist | Visual Designer</h3>
+<h3 align="center">Data Analyst | Content Strategist | Visual Designer</h3>
 
 <p align="center">
-  Passionate about using digital tools, creative strategy, and data-driven insights to solve real-world problems, support small businesses, and drive social impact.
+  Passionate about using data tools, creative strategy, and data-driven insights to solve real-world problems, support small businesses, and drive social impact.
 </p>
 
 ---
 
 ###  What I'm Currently Working On
-- Learning **Digital Analytics** via the ALX program
+- Learning **Data Analytics** via the ALX program
 - Creating data-driven content using **Excel**, **PowerPoint**, and **Google Sheets**
 - Designing visual strategies and user experiences with **Figma** and **Canva**
 
@@ -25,9 +31,9 @@
 
 ###  Projects & Articles
 
--  [Projects on LinkedIn](https://www.linkedin.com/in/daniel-olokutuyi-337073365/)
+-  [Projects](https://drive.google.com/drive/folders/1aPIViLFsk7r6jN2eUEyBaLQ5jS6Y8QZw?usp=sharing)
 -  [Read my Articles on Medium](https://medium.com/@olokutuyidaniel)
--  [My Resume (Google Drive)](https://drive.google.com/file/d/1mEOn1IlBO1hDkVise8hlQLeSsb5Dn7qs/view?usp=drive_link)
+-  [My Resume (Google Drive)](https://drive.google.com/drive/folders/1aPIViLFsk7r6jN2eUEyBaLQ5jS6Y8QZw?usp=sharing)
 
 ---
 
@@ -35,7 +41,7 @@
 
 -  Email: olokutuyidaniel@gmail.com  
 -  [LinkedIn](https://www.linkedin.com/in/daniel-olokutuyi-337073365)  
--  Twitter: [@Dutch_man_01](https://twitter.com/dutch_man_01) *(if applicable)*
+-  Twitter: [@Dutch_man_01](https://twitter.com/dutch_man_01) 
 
 ---
 
